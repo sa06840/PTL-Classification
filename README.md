@@ -4,4 +4,4 @@ In this research project, my team and I focused on enhancing a robot’s ability
 
 Due to privacy reasons, the original repository of this project has been kept private. This is a public version of the repository which has the published research paper.
 
-Link to paper: https://ieeexplore.ieee.org/document/10465985
+Link to research paper: https://ieeexplore.ieee.org/document/10465985
